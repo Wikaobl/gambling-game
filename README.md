@@ -13,3 +13,28 @@ This project, developed using **_Object-Oriented Programming_** *(OOP)*, was ins
 
 If you run out of money or bet more than you have, you'll see a message:
 ![image](https://github.com/Wikaobl/gambling-game/assets/107032701/5d5fc50c-d0d3-4dda-87b4-b92bd6148c4d)
+
+## Usage 
+
+First, run the development server:
+
+```bash
+git clone https://github.com/Wikaobl/gambling-game
+```
+
+Next, install dependencies
+
+```bash
+cd gambling-game
+npm install
+```
+
+Run the project
+
+```bash
+npm run
+```
+
+After successfully starting the project, open your web browser and go to the specified URL http://localhost:3000
+
+### Have fun and don't loose all your money! 🐸
